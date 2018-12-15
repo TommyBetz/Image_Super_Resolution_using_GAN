@@ -9,11 +9,10 @@ pyhon main_ssim.py
 ```
 Place the trained models inside checkpoint directory.
 
-
 > Requirements: Tensorflow, Tensorlayer, easydict
 
 * Testing
-
+The generated images will be created inside a samples directory.
 ```bash
 python main_ssim.py --mode=evaluate
 ```
