@@ -22,3 +22,5 @@ python main_ssim.py --mode=evaluate
   * [VGG 19 Model](https://mega.nz/#!xZ8glS6J!MAnE91ND_WyfZ_8mvkuSa2YcA7q-1ehfSm-Q1fxOvvs)
   * [DIV2K Dataset](https://data.vision.ee.ethz.ch/cvl/DIV2K/)
   > The models must be placed in the root directory of the project.
+
+Authors: Gaurav Prachchhak, Mihir Gajjar, Veekesh Dhununjoy, Tommy Betz.
