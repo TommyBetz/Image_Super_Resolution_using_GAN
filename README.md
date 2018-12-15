@@ -7,6 +7,8 @@ To run this project
 ```bash
 pyhon main_ssim.py
 ```
+Place the trained models inside checkpoint directory.
+
 
 > Requirements: Tensorflow, Tensorlayer, easydict
 
@@ -19,4 +21,5 @@ python main_ssim.py --mode=evaluate
   * [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802)
   * [Github](https://github.com/tensorlayer/srgan)
   * [VGG 19 Model](https://mega.nz/#!xZ8glS6J!MAnE91ND_WyfZ_8mvkuSa2YcA7q-1ehfSm-Q1fxOvvs)
-  > These models must be placed in the root directory of the project.
+  * Dataset Link - https://data.vision.ee.ethz.ch/cvl/DIV2K/
+  > The models must be placed in the root directory of the project.
