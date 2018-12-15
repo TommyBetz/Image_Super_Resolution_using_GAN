@@ -8,7 +8,7 @@ To run this project
 pyhon main_ssim.py
 ```
 
-> You will have to install tensorflow, tensorlayer, easydict
+> Requirements: Tensorflow, Tensorlayer, easydict
 
 * Testing
 
